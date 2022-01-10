@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/PlanetsFactsSite/static/css/main.87446d8a.css",
+    "main.js": "/PlanetsFactsSite/static/js/main.a2c86a7c.js",
+    "static/media/geology-mercury.png": "/PlanetsFactsSite/static/media/geology-mercury.aa6732c318454e3fc480.png",
+    "static/media/geology-venus.png": "/PlanetsFactsSite/static/media/geology-venus.484f9dacbeb3b555ffba.png",
+    "static/media/geology-mars.png": "/PlanetsFactsSite/static/media/geology-mars.d3ffce8e1e9b9bc5df60.png",
+    "static/media/geology-earth.png": "/PlanetsFactsSite/static/media/geology-earth.61d2b324eebae64f67cf.png",
+    "static/media/geology-neptune.png": "/PlanetsFactsSite/static/media/geology-neptune.d1247e414b189cfaf366.png",
+    "static/media/geology-saturn.png": "/PlanetsFactsSite/static/media/geology-saturn.b309827a4f23aaeca043.png",
+    "static/media/geology-jupiter.png": "/PlanetsFactsSite/static/media/geology-jupiter.93e4e021f82285517a6f.png",
+    "static/media/geology-uranus.png": "/PlanetsFactsSite/static/media/geology-uranus.8cec343d8e60d4b6000c.png",
+    "static/media/planet-jupiter-internal.svg": "/PlanetsFactsSite/static/media/planet-jupiter-internal.3087313dbe63fee4c2e9.svg",
+    "static/media/planet-earth-internal.svg": "/PlanetsFactsSite/static/media/planet-earth-internal.3c465186cd11e2861505.svg",
+    "static/media/background-stars.svg": "/PlanetsFactsSite/static/media/background-stars.f6233a6a8d2351c57f2b.svg",
+    "static/media/planet-earth.svg": "/PlanetsFactsSite/static/media/planet-earth.4d12af96d901006c0b94.svg",
+    "static/media/planet-jupiter.svg": "/PlanetsFactsSite/static/media/planet-jupiter.b1d0956b70a8ccb39f17.svg",
+    "static/media/planet-uranus-internal.svg": "/PlanetsFactsSite/static/media/planet-uranus-internal.578233c62999b0e1bec2.svg",
+    "static/media/planet-neptune-internal.svg": "/PlanetsFactsSite/static/media/planet-neptune-internal.3ebd623e9cc13840612d.svg",
+    "static/media/planet-uranus.svg": "/PlanetsFactsSite/static/media/planet-uranus.e91b297f96590dd14249.svg",
+    "static/media/planet-neptune.svg": "/PlanetsFactsSite/static/media/planet-neptune.af32296149ca9824ac1a.svg",
+    "static/media/planet-saturn-internal.svg": "/PlanetsFactsSite/static/media/planet-saturn-internal.e883c55958ad2299ab4e.svg",
+    "static/media/planet-saturn.svg": "/PlanetsFactsSite/static/media/planet-saturn.801f886ad467514e2c01.svg",
+    "static/media/planet-venus-internal.svg": "/PlanetsFactsSite/static/media/planet-venus-internal.1a94aa02c54e1742e5c5.svg",
+    "static/media/planet-venus.svg": "/PlanetsFactsSite/static/media/planet-venus.db5a344418797845ce8f.svg",
+    "static/media/planet-mars-internal.svg": "/PlanetsFactsSite/static/media/planet-mars-internal.d867ac804b24a57bcc34.svg",
+    "static/media/planet-mars.svg": "/PlanetsFactsSite/static/media/planet-mars.f9dc1ca45a888b568829.svg",
+    "static/media/planet-mercury-internal.svg": "/PlanetsFactsSite/static/media/planet-mercury-internal.d1be143201898fac4379.svg",
+    "static/media/planet-mercury.svg": "/PlanetsFactsSite/static/media/planet-mercury.1fce205c50f4657418d4.svg",
+    "index.html": "/PlanetsFactsSite/index.html",
+    "static/media/icon-source.svg": "/PlanetsFactsSite/static/media/icon-source.90231c6845b7449a7364.svg",
+    "static/media/icon-hamburger.svg": "/PlanetsFactsSite/static/media/icon-hamburger.05a40a49142005f6faf2.svg",
+    "static/media/icon-chevron.svg": "/PlanetsFactsSite/static/media/icon-chevron.8915cee97f993fb990aa.svg",
+    "main.87446d8a.css.map": "/PlanetsFactsSite/static/css/main.87446d8a.css.map",
+    "main.a2c86a7c.js.map": "/PlanetsFactsSite/static/js/main.a2c86a7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87446d8a.css",
+    "static/js/main.a2c86a7c.js"
+  ]
+}
