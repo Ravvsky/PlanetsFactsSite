@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@300;400;500;600;700&display=swap");
+.planet_list {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 11px;
+  justify-content: flex-end;
+  border-bottom: 1px #979797 solid;
+  height: 80px;
+  align-items: center;
+}
+.logo {
+  color: white;
+  font-size: 28px;
+  margin-right: auto;
+  margin-bottom: 10px;
+  font-family: "Antonio", sans-serif;
+}
+.active {
+  color: rgba(255, 255, 255, 1);
+}
+
+.buttons {
+  display: flex;
+}
+.mercury:hover,
+.mercury.active {
+  border-top: var(--transparent-border) #419ebb;
+}
+
+.venus:hover,
+.venus.active {
+  border-top: var(--transparent-border) #eda249;
+}
+
+.earth:hover,
+.earth.active {
+  border-top: var(--transparent-border) #6d2ed5;
+}
+
+.mars:hover,
+.mars.active {
+  border-top: var(--transparent-border) #d14c32;
+}
+
+.jupiter:hover,
+.jupiter.active {
+  border-top: var(--transparent-border) #d83a34;
+}
+
+.saturn:hover,
+.saturn.active {
+  border-top: var(--transparent-border) #cd5120;
+}
+.uranus:hover,
+.uranus.active {
+  border-top: var(--transparent-border) #1ec1a2;
+}
+
+.neptune:hover,
+.neptune.active {
+  border-top: var(--transparent-border) #2d68f0;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    left: 44%;
+    position: absolute;
+    top: 30px;
+  }
+
+  .planet_list {
+    justify-content: unset;
+    height: 159px;
+    align-items: flex-end;
+  }
+
+  .mercury:hover,
+  .mercury.active,
+  .venus:hover,
+  .venus.active,
+  .earth:hover,
+  .earth.active,
+  .mars:hover,
+  .mars.active,
+  .jupiter:hover,
+  .jupiter.active,
+  .saturn:hover,
+  .saturn.active,
+  .uranus:hover,
+  .uranus.active,
+  .neptune:hover,
+  .neptune.active {
+    border-top: transparent
+  }
+
+}

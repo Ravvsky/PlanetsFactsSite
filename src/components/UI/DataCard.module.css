@@ -1,0 +1,54 @@
+.main {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  border: 1px rgba(255, 255, 255, 0.2) solid;
+  padding: 25px;
+  height: 76px;
+  width: 203px;
+}
+
+.title {
+  color: rgba(255, 255, 255, 0.5);
+  font-family: "Spartan", sans-serif;
+  font-size: 11px;
+  line-height: 25px;
+  letter-spacing: 1px;
+  font-weight: bold;
+
+}
+
+.number,
+.unit {
+  font-family: "Antonio", sans-serif;
+  font-size: 40px;
+  letter-spacing: -1.5px;
+}
+
+@media (max-width: 1280px) {
+  .main {
+    margin: 0 22px;
+  }
+}
+
+@media (max-width: 768px) {
+  .main {
+    height: 36px;
+    width: 112px;
+    margin: 0 9px;
+
+  }
+
+  .title{
+      
+    font-size: 8px;
+}
+
+  .number, .unit{
+      font-size: 24px;
+      letter-spacing: -0.9px;
+
+  }
+
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;600;700&display=swap');
+.menubutton{
+    font-family: 'Spartan', sans-serif;
+    color: white;
+    padding: 20px;
+    width: max-content;
+    border-top: 4px solid transparent;
+    --transparent-border: 4px solid ;
+    color: rgba(255, 255, 255, 0.75);
+    padding-top: 32px
+
+}
+
+li{
+    height: 80px;
+}
+
+  
+  
+  

@@ -1,0 +1,61 @@
+.DescriptionButton{
+    margin-top: 16px;
+    background: transparent;
+    color: white;
+    border: 1px solid rgba(255,255,255, 0.2);
+    padding: 12px;
+    width: 350px;
+    text-transform: uppercase;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 2.57px;
+    cursor: pointer;
+}
+
+.DescriptionButton:hover{
+    background: #419EBB;
+}
+.number{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 12px;
+}
+
+.mercury:hover, .mercury.active{
+    background:  #419EBB
+  }
+
+  
+ .venus:hover, .venus.active{
+    background: #EDA249;
+  }
+
+  .earth:hover, .earth.active{
+    background:#6D2ED5;
+  }
+  
+.mars:hover, .mars.active{
+    background: #D14C32;
+  }
+  
+.jupiter:hover, .jupiter.active{
+    background:#D83A34;
+  }
+  
+.saturn:hover, .saturn.active{
+    background:#CD5120;
+  }
+.uranus:hover, .uranus.active{
+    background: #1EC1A2;
+  }
+  
+.neptune:hover, .neptune.active{
+    background:#2D68F0;
+  }
+
+  .test{
+      background: red;
+  }
+
+
+

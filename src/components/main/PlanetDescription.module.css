@@ -1,0 +1,72 @@
+.main {
+  color: white;
+  width: 350px;
+  position: fixed;
+  right: 200px;
+}
+
+h1 {
+  font-family: "Antonio", sans-serif;
+  text-transform: uppercase;
+  font-size: 80px;
+}
+
+p {
+  font-family: "Spartan", sans-serif;
+  font-size: 14px;
+  line-height: 25px;
+}
+
+.source {
+  color: rgba(255, 255, 255, 0.5);
+  margin: 20px 0;
+}
+
+.source a {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 700;
+}
+
+.source svg {
+  margin-left: 5px;
+  max-height: 12px;
+  max-width: 12px;
+}
+
+.active {
+  background: red;
+  color: black;
+}
+
+
+
+@media (max-width: 1280px) {
+  .main {
+    right: 5%;
+    top: 10%;
+  }
+}
+
+@media (max-width: 768px) {
+  .main {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    bottom: 120px;
+    width: unset;
+    margin-left: 30px;
+    top: unset;
+  }
+  .info{
+      margin-right: 20px;
+  }
+  .buttons{
+      margin-top: 80px;
+  }
+
+  h1{
+      font-size: 48px;
+      margin-block-end: 0.5em;
+
+  }
+}
